@@ -5,4 +5,7 @@ The main goal of this module is to learn the following Unity Engine systems
   - Animation
   - Unity Events
   
-  This is achieved using the following components.
+
+# Components
+## Interacable 2D
+
