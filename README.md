@@ -8,5 +8,5 @@ The main goal of this module is to learn the following Unity Engine systems
 
 # Components
 ## Interacable 2D
-![alt text](https://ibb.co/ZSNQwq2)
+![Alt Text](https://ibb.co/ZSNQwq2)
 
