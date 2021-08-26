@@ -7,4 +7,8 @@ If you are totally new to Unity, stop right here and go take this hour course ri
 
 Okay, now that you are familiar with Unity. Download this complete project from the green "code" button above. [Follow these instructinos to open this project in Unity.](https://docs.unity3d.com/Manual/GettingStartedOpeningProjects.html)
 
+# Working With this Kit
+
+This kit is built for those who are not comfortable with code. Certainly if you are, you can manipulate this project no problem. It relies on two event systems that work in tandem, the [Unity Event System](https://www.youtube.com/watch?v=k_RMhQ19aQA) & the [Game Event System](https://www.youtube.com/watch?v=gXD2z_kkAXs).
+
 
