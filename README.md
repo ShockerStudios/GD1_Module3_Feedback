@@ -1,6 +1,6 @@
 # Shocker Studios Platformer Kit
 
-We believe that portfolio building is apriori for you the students to reach your career goals. The portfolio represents your talent and value to potential employers and fellow collaborators. This is why Shocker STudios will is providing a structure that will help you kickstart your creativity.
+We believe that portfolio building is apriori for you the students to reach your career goals. The portfolio represents your talent and value to potential employers and fellow collaborators. This is why Shocker Studios will is providing a structure that will help you kickstart your creativity.
 
 # Getting Started
 If you are totally new to Unity, stop right here and go take this hour course right now! [Unity Essentials](https://learn.unity.com/pathway/unity-essentials)
